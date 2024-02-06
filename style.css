@@ -1,0 +1,93 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,#1e7e34 0%,rgba(255,255,255,1.00) 36.79%,rgba(255,255,255,1.00) 63.21%,#1e7e34 100%);
+    background-image: -moz-linear-gradient(270deg,#1e7e34 0%,rgba(255,255,255,1.00) 36.79%,rgba(255,255,255,1.00) 63.21%,#1e7e34 100%);
+    background-image: -o-linear-gradient(270deg,#1e7e34 0%,rgba(255,255,255,1.00) 36.79%,rgba(255,255,255,1.00) 63.21%,#1e7e34 100%);
+    background-image: linear-gradient(180deg,#1e7e34 0%,rgba(255,255,255,1.00) 36.79%,rgba(255,255,255,1.00) 63.21%,#1e7e34 100%);
+
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,#1e7e34 0%,#1b7708 100%);
+    background-image: -moz-linear-gradient(270deg,#1e7e34 0%,#1b7708 100%);
+    background-image: -o-linear-gradient(270deg,#1e7e34 0%,#1b7708 100%);
+    background-image: linear-gradient(180deg,#1e7e34 0%,#1b7708 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color:#1e7e34;
+    color: #FFFFFF;
+    border: none;
+}
+#accordion1 .card #headingOne1 {
+    background-color:#1e7e34;
+}
+#headingOne1 .mb-0 a {
+    color: #FFFFFF;
+}
+#accordion1 .card #headingTwo1 {
+    background-color:#1e7e34;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
+#accordion1 .card #headingThree1 {
+    background-color:#1e7e34;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
+.container-fluid .container footer {
+    color: #FFFFFF;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+	background-color: #696969;
+}
+a{
+    color: #2bff00;
+}
+#f:hover{
+    opacity: 0.2;
+}
+.nav-item.active .nav-link{
+    opacity: 1;
+}
+.ca {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+}
+
+.title {
+    color: grey;
+    font-size: 18px;
+}
+
+.f {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.c {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+
+.f:hover, .c:hover {
+    opacity: 0.7;
+}
+button {
+    outline: none;
+}
